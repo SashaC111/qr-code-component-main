@@ -1,0 +1,73 @@
+@media (min-width: 1200px) {
+    body {
+      max-width: 1440px;
+      height: auto;
+      display: block;
+    }
+}
+
+
+
+@media (min-width: 780px){
+    body {
+      width: 390px;
+      height: auto;
+      margin: 0 auto;
+    }
+  }
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    }
+
+.block {
+  width: 320px;
+  height: 499px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 7%;
+  margin: 24px;
+  text-align: center;
+}
+
+.codeimg {
+  margin-top: 20px;
+  height: 288px;
+  width: 288px;
+  border-radius: 7%;
+  }
+
+.text {
+width: 288px;
+height: 131px;
+padding: 16px;
+color: hsl(218, 44%, 22%);
+font-family: "Outfit", serif;
+font-optical-sizing: auto;
+font-style: normal;
+text-align: center;
+padding: 0 16px;
+margin-top: 16px;
+}
+.praseOne {
+font-weight: 700;
+font-size: 22px;
+margin: 0 auto 20px;
+}
+
+praseTwo {
+font-weight: 400;
+} 
+
+.attribution { 
+    font-size: 11px;
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
